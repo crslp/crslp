@@ -2,7 +2,7 @@
 
 - A web developer from Bonn, Germany.
 - Specialized on PHP and Laravel. 
-- Founder of Pretzels, the dev-shop for Laravel Projects.
+- Founder of [Pretzels](https://pretzels.dev), the dev-shop for Laravel Projects.
 
 <details>
     <summary> <samp>📝 Programming Languages</samp></summary>
