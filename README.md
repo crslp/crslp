@@ -4,14 +4,6 @@
 - Specialized on PHP and Laravel. 
 - Founder of [Pretzels](https://pretzels.dev), the dev-shop for Laravel Projects.
 
-<details>
-    <summary> <samp>📝 Programming Languages</samp></summary>
-<br/>
-
-![Chris Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crslp&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
-
-</details>
-
 ### Reach out!
 
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:chris.wolf@pretzels.dev)
