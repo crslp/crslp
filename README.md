@@ -7,4 +7,4 @@
 ### Reach out!
 
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:chris.wolf@laramate.de)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/chriswolf-bonn/](https://www.linkedin.com/company/laramate/))
+[![LinkedIn Profile of Chris Wolf](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white "LinkedIn Profile of Chris Wolf")](https://www.linkedin.com/in/chriswolf-bonn/)
